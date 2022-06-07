@@ -1,6 +1,6 @@
 ## Règles du jeu
 
-Votre client souhaite que vous réalisiez un programme qui affichera un couplet de sa musique préférée *99 shooters sans alcool* dépendant du nombre de shooters en entrée. 
+Nous aimerions que vous réalisiez un programme qui affichera un couplet de sa musique préférée *99 shooters sans alcool* dépendant du nombre de shooters en entrée. 
 Ce nombre sera compris entre 0 et 99 comme vous pouvez le [voir ici](SONG.md).
 
 Exemples de solutions :
@@ -8,7 +8,7 @@ Exemples de solutions :
 ![Image terminal](images/term-99.png)
 ![Image web](images/web-99.png)
 
-Pour cela vous êtes libre du langage utilisé ainsi que de l'interface qui permettra à votre client d'interagir avec votre programme.
+Pour cela vous êtes libre du langage utilisé ainsi que de l'interface qui nous permettra d'interagir avec votre programme.
 
 ## Spécifications
 
@@ -41,7 +41,7 @@ Vas au supermarché pour en acheter, 99 shooters sans alcool sur le mur.
 
 ## Mot de la fin
 
-À la fin de cet exercice, vous devez nous partager votre code pour qu'on le teste via cda-greta@dlaoctet.net<br/>
+À la fin de cet exercice, vous devez nous partager votre code pour qu'on le teste via ...<br/>
 Il faudra donc que votre code soit de qualité et facile à prendre en main !
 
 À vous de jouer !
